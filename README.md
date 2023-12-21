@@ -1,3 +1,5 @@
+<h1>Simulation-based Dynamic (trace) Scheduling </h1>
+
 In a programming language of your choice among {C, Java, Python, C++} [note, your makefile must ensure that the correct version of python is invoked on CSE machines, i.e. be explicit in whether to invoke the python3 or python2.7 interpreter], implement a program with the following specification that performs dynamic (OoO) scheduling with conservative load-store ordering on a restricted set of simplified instructions:
 
 Your program will take one command line input, a filename, and output its results in a file named **out.txt**
